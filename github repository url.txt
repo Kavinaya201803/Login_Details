@@ -1,0 +1,8 @@
+Repository Url
+
+git remote add origin https://github.com/aruna031989/Selenium_Project.git
+
+git push -u origin main
+
+login id: aruna.kna@gmail.com
+pswd: Arunasiva@1234
